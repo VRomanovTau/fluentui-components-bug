@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "fluentui-components-client-side-solution",
+    "id": "88943fa5-bdbd-47b5-a675-5fdb944dc45c",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.17.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "fluentui-components description"
+      },
+      "longDescription": {
+        "default": "fluentui-components description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "fluentui-components Feature",
+        "description": "The feature that activates elements of the fluentui-components solution.",
+        "id": "c4fb6087-dc2e-464c-b560-2a729cd7dbed",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/fluentui-components.sppkg"
+  }
+}

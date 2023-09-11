@@ -1,0 +1,24 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "whichFolder": "subdir",
+    "solutionName": "fluentui-components",
+    "componentType": "webpart",
+    "template": "react",
+    "componentName": "HelloWorld",
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "16.20.0",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.9.1"
+    },
+    "version": "1.17.0",
+    "libraryName": "fluentui-components",
+    "libraryId": "88943fa5-bdbd-47b5-a675-5fdb944dc45c",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionShortDescription": "fluentui-components description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false
+  }
+}
